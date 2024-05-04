@@ -1,5 +1,3 @@
-
-
 const AboutInfoPage = () => {
   return (
     <div>
